@@ -13,4 +13,4 @@ def encode(num):
             num = int(num / 2)
         return ans[1:]
 
-print(encode(3))
+print(encode(5))
